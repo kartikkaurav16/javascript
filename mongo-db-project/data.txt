@@ -1,0 +1,7 @@
+mark jhon  waffle iron 80  2
+mark jhon  pen 60  5
+mark jhon  blender 800  1
+mark jhon  press 70  6 
+nikita jhonson  color 250  5
+nikita jhonson  dog food 80  3
+nikita jhonson  snake 1000  1
